@@ -1,4 +1,6 @@
 
+
+ endrer i readme
 # LAB - CI med GitHub actions 
 
 ## Mål for denne Øvingen 
